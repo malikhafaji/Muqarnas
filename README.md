@@ -1,2 +1,3 @@
 # Muqarnas
-how to parametrize Muqarnas in grasshopper
+Sample .gh files to show how to parametrize Muqarnas in Grasshopper.
+Open .3dm file to see the base plan.
